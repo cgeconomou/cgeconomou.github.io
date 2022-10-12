@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac83066d.css",
+    "main.js": "/static/js/main.a1cf2aa2.js",
+    "static/media/rps.png": "/static/media/rps.6cc49b3cc46bae934180.png",
+    "static/media/About.png": "/static/media/About.45546e0adc4fb839de1e.png",
+    "static/media/Costas_EconomouCV.pdf": "/static/media/Costas_EconomouCV.0cfc86bdb727bab29097.pdf",
+    "static/media/me.png": "/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/IMGME.png": "/static/media/IMGME.36685ab13e1aafe7b2e0.png",
+    "static/media/hairsallon.png": "/static/media/hairsallon.90626bc42da88340365b.png",
+    "static/media/weather.jpg": "/static/media/weather.890cb4982008a6af36b0.jpg",
+    "static/media/movies.jpg": "/static/media/movies.dba2a0f35c5daca48b80.jpg",
+    "index.html": "/index.html",
+    "main.ac83066d.css.map": "/static/css/main.ac83066d.css.map",
+    "main.a1cf2aa2.js.map": "/static/js/main.a1cf2aa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac83066d.css",
+    "static/js/main.a1cf2aa2.js"
+  ]
+}
