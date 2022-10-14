@@ -1,7 +1,7 @@
 .container.contact__container{
-    width: 58%;
+    width: 20%;
     display: grid;
-    grid-template-columns: 30% 58%;
+    /* grid-template-columns: 30% 58%; */
     gap: 12%;
 }
 

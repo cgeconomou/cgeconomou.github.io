@@ -4,13 +4,14 @@ import IMG1 from '../../assets/hairsallon.png'
 import IMG2 from '../../assets/movies.jpg'
 import IMG3 from '../../assets/rps.png'
 import IMG4 from '../../assets/weather.jpg'
+import IMG5 from '../../assets/port.jpg'
 
 const data = [
   {
     id:1,
     image:IMG1,
     title:'A web app for hair sallon',
-    github:'https://github.com/cgeconomou'
+    github:'https://github.com/sokogou/ColorsTNC-FrontEnd'
     
   },
   {
@@ -24,14 +25,21 @@ const data = [
     id:3,
     image:IMG3,
     title:'Rock Paper Scissor, lets play',
-    github:'https://github.com/cgeconomou'
+    github:'https://github.com/cgeconomou/RockPaperS'
     
   },
   {
     id:4,
     image:IMG4,
     title:'A web app for weather',
-    github:'https://github.com/cgeconomou'
+    github:'https://github.com/cgeconomou/WebApp'
+    
+  },
+  {
+    id:5,
+    image:IMG5,
+    title:'React Portfolio',
+    github:'https://github.com/cgeconomou/reactportfolio'
     
   }
 ]
